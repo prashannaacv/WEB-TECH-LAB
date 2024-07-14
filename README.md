@@ -1,2 +1,5 @@
 # WEB-TECH-LAB
 Web dev codes sem 5 
+
+HELLO WORLD
+HELLO ALL 
